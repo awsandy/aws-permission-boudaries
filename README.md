@@ -121,7 +121,6 @@ This above policy means that even if the user creates a Lambda role named "Jenki
 
 ### References:
 
-https://gpbstuff.s3.amazonaws.com/console-demos/permissions-boundaries-for-jenkins.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6EYMHX4HBIYISVTB%2F20200401%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200401T210700Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=63912b246ab50ba0fe6492812d02086943f1d0c784fe05c05f62b27e1cfd3ecd
 
 https://www.youtube.com/watch?v=eVNvjQ0wr84
 

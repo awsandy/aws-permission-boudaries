@@ -121,6 +121,5 @@ This above policy means that even if the user creates a Lambda role named "Jenki
 
 ### References:
 
-
 https://www.youtube.com/watch?v=eVNvjQ0wr84
 

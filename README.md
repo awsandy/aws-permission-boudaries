@@ -7,7 +7,7 @@ A permissions boundary will define the maximumpermission that can be applied - r
 
 This Policy - is attached to my end users:
 
-* It allows the user to perform some Lambda operations , S3 oprations and read/lst IAM
+* It allows the user to perform some Lambda operations , S3 operations and read/list IAM
 * It then also when creating a role
   * Insists when creating a role that the naming convention is followed
   * Insists the Permission Boundary policy BoundaryForJenkins is selected when creating a role

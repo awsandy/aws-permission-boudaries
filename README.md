@@ -9,10 +9,9 @@ The policy below - is attached to the end user:
 
 * It allows the user to perform some Lambda operations , S3 operations and read/list IAM
 * It then also when creating a role
-  * Insists when creating a role that the naming convention is followed
-  * Insists the Permission Boundary policy BoundaryForJenkins is selected when creating a role
-  * Restricts the Roles that can be passed to Lambda to ones conforming to the naming convention.
-
+  * Ensures that the role naming convention is followed.
+  * Ensures the Permission Boundary policy BoundaryForJenkins is selected when creating a role
+  * Restricts the Roles that can be passed to Lambda to ones that conform to the naming convention.
 
 
 *Policy: MinimalPermissionsForJenkins*

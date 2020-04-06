@@ -2,10 +2,10 @@
 
 Can be applied to IAM User or Roles
 
-A permissions boundary will define the maximumpermission that can be applied - regardless of what has been applied to the user or role
+A permissions boundary will define the maximum permissions that can be applied - regardless of what has been applied to the user or role
 
 
-This Policy - is attached to my end users:
+The policy below - is attached to the end user:
 
 * It allows the user to perform some Lambda operations , S3 operations and read/list IAM
 * It then also when creating a role

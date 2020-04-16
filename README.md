@@ -122,3 +122,7 @@ This above policy means that even if the user creates a Lambda role named "Jenki
 
 https://www.youtube.com/watch?v=eVNvjQ0wr84
 
+### Workshop
+
+https://identity-round-robin.awssecworkshops.com/permission-boundaries-advanced/
+

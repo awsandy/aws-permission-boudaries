@@ -103,6 +103,7 @@ Permission boundary never grants permissions it only narrows the scope of allowe
                 "logs":"PutLogEvent",
             "Resource": "arn:aws:logs:eu-west-2:111122223333:log-group:/aws/lambda/*"
         },
+        {
         "Sid":"s3ReadOnly",
             "Effect": "Allow", 
             "Action": [
